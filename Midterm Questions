@@ -1,0 +1,36 @@
+Android midterm questions
+
+Explain the life cycle of android activity?
+What are the Intent and its types
+What is Google Android SDK?
+Define the features of Android
+Main items in every Android project
+How can orientation cases be handled in the application?
+What is a Fragment?
+What is the difference between a fragment and an activity?
+What is the role of the Manifest file?
+Difference between app Gradle and project Gradle
+Write equals method for object Student having such fields like the name (String), age (int), course(int). Why do we need an equals method?
+Which features Constraint Layout provides in comparison with other types of layouts?
+What is Context?
+How to restore the state of recycler view (For example, when we have a list of objects we scroll it, then go to details of some object, then when we go back we are in the place where we have scrolled)?
+Define UI elements that you know
+Draw Activity lifecycle scheme
+Draw Fragment lifecycle scheme
+Where layouts are placed in android?
+How many types of intents? Describe each type of intent.
+Explanation of subscriber patterns with example in Java.
+What is a Bundle? Why and where we use it?
+What is the Adapter? Why and where we use it?
+Storage types in Android. Explain each storage type.
+Difference between interface and abstract class with a definition(explain in your own words) and examples.
+When we use SharedPreference? 
+What is serialization? Why is it necessary?
+Difference between Serializable and Parcelable?  
+Why do we use getters and setters? 
+Why we need a string, style, color XML files? Describe each type of file.
+Why we use fragments?
+How can fragments communicate with each other on one screen? Write a code sample.
+What is OOP? What problems does OOP solve?
+Why we use interface? What problems does Interface solve? 
+OOP principles? Explain each principle (explain in your own words without any terms to your five-year-old brother/sister)
