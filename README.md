@@ -87,5 +87,5 @@ youtube : https://www.youtube.com/watch?v=eziQIozMcMg&feature=youtu.be
 
 11)code review https://kotlinlang.org/docs/reference/coding-conventions.html
 
-12) Привязка к галерея : https://www.youtube.com/watch?v=zxM3Y7IzXpg&feature=youtu.be
+12) Привязка к галерею : https://www.youtube.com/watch?v=zxM3Y7IzXpg&feature=youtu.be
 https://github.com/Mura75/RetrofitExample/tree/image_picker
